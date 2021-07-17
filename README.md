@@ -1,3 +1,3 @@
 # AppPeluqueria
-# sad-sammet-d54684.netlify.app
+sad-sammet-d54684.netlify.app
 
